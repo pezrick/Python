@@ -1,5 +1,5 @@
-number1 = input("What is your grade: ")
-grade = int(number1)
+grade = int(input("What is your grade: "))
+
 if grade > 85:
     print("Distinction")
 elif 65 <= grade <= 85: 
