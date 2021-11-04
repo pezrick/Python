@@ -13,3 +13,4 @@ lines = find_a_line.readlines()
 print(lines[0])
 print(lines[3])
 
+find_a_line.close()
