@@ -12,6 +12,6 @@ elif average_grade >= 50:
 elif average_grade >= 40:
     print("D")
 else:
-    print("You are below 20 years old")
+    print("You failed!!!")
 
 print(average_grade)
